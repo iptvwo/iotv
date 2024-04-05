@@ -1,0 +1,235 @@
+ #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",group-title="Cricket LIVE", IPL yupp
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE",IPL ENGLISH-1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://94.137.74.233:8880/109205180/NBrMV4S7nH/701602?play_token=test
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE",IPL SD tampad
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://94.137.74.233:8880/232506590/187202577/701602?play_token=test
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE", Hindi ad free ipl jio cinema
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ardinesh-ipl.puspas.com.np/live/ipl-universal/hindi/index.ts
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE", ad free english ipl
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ardinesh-ipl.puspas.com.np/live/ipl-universal/english/index.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",group-title="Cricket LIVE", Star Sports 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://103.120.172.74:4200
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",group-title="Cricket LIVE", Star Sport Hindi
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png",group-title="Cricket LIVE"Super, Sport Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png",group-title="Cricket LIVE",Sky cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
+https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
+https://tv5.hoichoi24.com/1014/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
+https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
+https://s1.bongohub.pw/hoichoi.m3u8?id=1006
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
+https://s1.bongohub.pw/hoichoi.m3u8?id=1014
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/109987.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd?id=1%7CdrmScheme=clearkey&drmLicense=https://denver1769.in/TP/Atv.php?id=2105
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
+https://bharwanaanet.000webhostapp.com/sports/StarsportsHindi.m3u8/
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
+https://webhdrus.onlinehdhls.ru/lb/premium267/index.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+#https://s1.bongohub.pw/hoichoi.m3u8?id=1101
+#http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
+http://176.119.29.52/live/00:1A:79:42:01:16/ADC5836E18B09/98.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
+https://1rdk.short.gy/IPL-2024/JioCinema-Bangla-Worldwide/Himel-Op.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Super Sports Cricket
+https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Sky Sports Cricket 
+https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Sky Sports Cricket 
+https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Astro Cricket
+https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI FANTASY" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI FANTASY
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI MUSICAL" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI MUSICAL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636167&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI MIX" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI MIX
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI SPORTS" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI SPORTS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636165&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI THRILLER" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI THRILLER
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636164&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI WAR" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI WAR
+#EXTVLCOPT:cache=17238
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO BLOCKBUSTER" group-title="ASIA | PREMIUM VIP",IN-PREM| SOLO BLOCKBUSTER
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES" group-title="ASIA | PREMIUM VIP",IN-PREM| SOLO HINDI MOVIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SOLO HINDI MOVIES 5" group-title="ASIA | PREMIUM VIP",IN-PREM| SOLO HINDI MOVIES 5
+#EXTVLCOPT:cache=17238
+#EXTINF:-1 tvg-id="" tvg-name="#### PAKISTAN PREMIUM ####" group-title="ASIA | PREMIUM VIP",#### PAKISTAN PREMIUM ####
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636413&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PAK-PREM| AFSHAN" group-title="ASIA | PREMIUM VIP",PAK-PREM| AFSHAN
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636406&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PAK-PREM| AHMAD RUSHDI" group-title="ASIA | PREMIUM VIP",PAK-PREM| AHMAD RUSHDI
+#EXTINF:-1 tvg-id="" tvg-name="#### PUNJABI PREMIUM ####" group-title="ASIA | PREMIUM VIP",#### PUNJABI PREMIUM ####
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019913&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 1" group-title="ASIA | PREMIUM VIP",IN-PREM| PUNJABI 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019900&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 2" group-title="ASIA | PREMIUM VIP",IN-PREM| PUNJABI 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019901&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 3" group-title="ASIA | PREMIUM VIP",IN-PREM| PUNJABI 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019902&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 4" group-title="ASIA | PREMIUM VIP",IN-PREM| PUNJABI 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019904&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| PUNJABI 5" group-title="ASIA | PREMIUM VIP",IN-PREM| PUNJABI 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM MOVIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES 1" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM MOVIES 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES 2" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM MOVIES 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM MOVIES 3" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM MOVIES 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM CLASSIC MOVIES" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM CLASSIC MOVIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 1" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM ACTORS 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 2" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM ACTORS 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636441&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 3" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM ACTORS 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636440&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PB-PREM| PREMIUM ACTORS 4" group-title="ASIA | PREMIUM VIP",PB-PREM| PREMIUM ACTORS 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| JIO SERIES" group-title="ASIA | PREMIUM VIP",IN-PREM| JIO SERIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| MX PLAYER SERIES" group-title="ASIA | PREMIUM VIP",IN-PREM| MX PLAYER SERIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636190&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| NETFLIX SERIES" group-title="ASIA | PREMIUM VIP",IN-PREM| NETFLIX SERIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| SONYLIV SERIES" group-title="ASIA | PREMIUM VIP",IN-PREM| SONYLIV SERIES
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1024827&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 1" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019880&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 2" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019881&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 3" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019882&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 4" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019883&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 5" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019884&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 6" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019885&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 7" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019888&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| BOLLYWOOD 8" group-title="ASIA | PREMIUM VIP",IN-PREM| BOLLYWOOD 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=1019886&extension=ts
