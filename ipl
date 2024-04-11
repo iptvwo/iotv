@@ -101,6 +101,10 @@ http://94.137.74.233:8880/232506590/187202577/701602?play_token=test
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI FANTASY" group-title="ASIA | PREMIUM VIP",IN-PREM| CineMachi
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://103.131.214.129:9985/stream/channelid/1005823665?ticket=1FA8B27284ECB4E8FC097E639FC1BB81E13CF1D6&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI MUSICAL" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI MUSICAL
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
