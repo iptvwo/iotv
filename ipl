@@ -1,1 +1,258 @@
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| PAK vs Ireland T20 Tamsha
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_360p.m3u8?uuid=FFAAFFFF-fe0a-73bf-143d-baea3807c995&isSubM3u8=1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 1
+http://bostv.one:8080/biharilal/7647854/97409
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 1
+http://bostv.one:8080/biharilal/7647854/97409
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 2
+http://bostv.one:8080/biharilal/7647854/97410
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 3
+http://bostv.one:8080/biharilal/7647854/97411
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 4
+http://bostv.one:8080/biharilal/7647854/97412
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live AD FREE IPL HINDI
+http://bostv.one:8080/biharilal/7647854/123049
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| AD FREE IPL ENGLISH
+http://bostv.one:8080/biharilal/7647854/123050
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVzTYHhxSwd_qYz7qe6nri46JGQzRZQWtYYKkJ3OpVQ&s" group-title="Live Cricket",| Live 5
+https://live.livecricketsl.xyz/livecric/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/160w/criclife/CRICLIVE1Y2021M/CRICLIVE1Y2021M-474x677-PST.jpg" group-title="Sports-SHQ",| Cric Life 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQasWUXff4Ll7a-5q1TlmVdIN8UFCKOyq8bORN3VUFjdlpTd65bXP0JT12T7ucrjO6QkR7MNwn0BxYzXh4lQQULxnA3yl9gHhx0oxc92xoH_I6kJZx-t4KTIJnlT-CayiITXUlu_aRxa6_jSeA9unATUuo-Zb2rzYdi-qZ2e17OsX0-x0zUAP11bXvfLsL/s3179/YuppTV_TATA_IPL_2024.png" group-title="Sports-SHQ",| IPL YUPP TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=88853&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Sports-SHQ",| Super Sports Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2022/05/10/star_sport.jpg?itok=jNFHFauz" group-title="Sports-SHQ",| Star Sports Hindi
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrM4YY-5ml2oNfmnpbGrfMIuMGp18W1u7eQ&usqp=CAU" group-title="Movies",Punjabi Movie 24/7
+http://bostv.one:8080/biharilal/7647854/118629
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrM4YY-5ml2oNfmnpbGrfMIuMGp18W1u7eQ&usqp=CAU" group-title="Movies",Bollywood Movie 24/7
+http://bostv.one:8080/biharilal/7647854/118514
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://epg-img.shoq.com.pk/dasimages/channel/landscape/1056x594/NPQ7qb7N.jpg" group-title="Sports-SHQ",Cric Life 2 
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:96a3dc8766317aa169149a604928ebb6
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="Sports-SHQ",PTV SPORTS Shoq
+https://live.shoq.com.pk/live/eds/PTV_Sports/HLS/PTV_Sports.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:9a04f07998404286ab92e65be0885f95
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-super.png" group-title="Sports-SHQ",Geo Super Shoq
+https://live.shoq.com.pk/live/eds/Geo_Super/HLS/Geo_Super.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:9a04f07998404286ab92e65be0885f95
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/474w/Starz/FASTSPORTSHDY2023MUR/FASTSPORTSHDY2023MUR-474x677-PST.jpg" group-title="Sports-SHQ",FAST SPORTS
+https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/HLS/Fast_Sports_HD.m3u8
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/kids-Zone.png" group-title="KIDS-SHQ",KIDS ZONE
+https://live.shoq.com.pk/live/eds/Kids_Zone_Plus/HLS/Kids_Zone_Plus.m3u8
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/ChannelMobileLarge/bc373-cartoon-network-3-in-urdu.jpg" group-title="KIDS-SHQ",Cartoon Network Urdu
+https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/chunklist_w1204938811_b748000_slEng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Cinemachi-Kids.png" group-title="KIDS-SHQ",Cinemachi Kids
+https://live.shoq.com.pk/live/eds/Cinemachi_Kids/HLS/Cinemachi_Kids.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/LollyKids.png" group-title="KIDS-SHQ",Lolly Kids
+https://live.shoq.com.pk/live/eds/Lolly_Kids/HLS/Lolly_Kids.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://en.wikipedia.org/wiki/File:PBS_Kids_logo_(2022).svg" group-title="KIDS-SHQ",Kids Song 24/7
+http://tv.cloudcdn.me:80/live.ts?channelId=123913&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://www.adgully.com/img/800/202108/befunky-project-3.jpg" group-title="KIDS-SHQ",CHU CHU KIDS SONG
+http://xtv.ooo:8080/41452363788/8152527393/340807
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discover-pakistan.png" group-title="Information-SHQ",Discover Pakistan
+https://live.shoq.com.pk/live/eds/Discover_Pakistan/HLS/Discover_Pakistan.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/National-Geographic_.png" group-title="Information-SHQ",National Geographic
+https://live.shoq.com.pk/live/eds/National_Geographic/HLS/National_Geographic.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discovery-science.png" group-title="Information-SHQ",Discover Science
+https://live.shoq.com.pk/live/eds/Discovery_Science/HLS/Discovery_Science.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discovery-science.png" group-title="Information-SHQ",Discover Hindi
+https://freeott.site/discovery/Discovery_Channel.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/history.png" group-title="Information-SHQ",History
+https://live.shoq.com.pk/live/eds/History/HLS/History.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/nat-geo-wild.png" group-title="Information-SHQ",Nat Geo Wild
+https://live.shoq.com.pk/live/eds/Nat_Geo_Wild/HLS/Nat_Geo_Wild.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/qtv.png" group-title="ISLAMIC-SHQ",QTV ARY
+https://live.shoq.com.pk/live/eds/QTV/HLS/QTV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/B4Umovies.png" group-title="Entertainment-SHQ",B4U Movies
+https://live.shoq.com.pk/live/eds/B4U_Movies/HLS/B4U_Movies.m3u8
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/160w/livechannels/GREENTVLIVEY2023M/GREENTVLIVEY2023M-474x677-PST.jpg" group-title="Entertainment-SHQ",Green Entertainment
+https://live.shoq.com.pk/live/eds/Green_TV/HLS/Green_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-news.png" group-title="News-SHQ",Geo News
+https://live.shoq.com.pk/live/eds/Geo_News/HLS/Geo_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="News-SHQ",Ary News
+https://live.shoq.com.pk/live/eds/ARY_News/HLS/ARY_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="News-SHQ",Bol News
+https://live.shoq.com.pk/live/eds/Bol_News/HLS/Bol_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/dunya.png" group-title="News-SHQ",Dunya News
+https://live.shoq.com.pk/live/eds/Dunya_News/HLS/Dunya_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/hum-news.png" group-title="News-SHQ",Hum News
+https://live.shoq.com.pk/live/eds/Hum_News/HLS/Hum_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/aljazera.png" group-title="News-SHQ",Al Jeezra
+https://live.shoq.com.pk/live/eds/Al-jazeera_English/HLS/Al-jazeera_English.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Dawn-news.png" group-title="News-SHQ",Dawn News
+https://live.shoq.com.pk/live/eds/Dawn_News/HLS/Dawn_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="News-SHQ",AAJ News
+https://live.shoq.com.pk/live/eds/Aaj_News/HLS/Aaj_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/express-news.png" group-title="News-SHQ",Express News
+https://live.shoq.com.pk/live/eds/Express_News/HLS/Express_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/24-news.png" group-title="News-SHQ",24 News
+https://live.shoq.com.pk/live/eds/24_Channel/HLS/24_Channel.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/NEO.png" group-title="News-SHQ",Neo News
+https://live.shoq.com.pk/live/eds/Neo_TV/HLS/Neo_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png" group-title="News-SHQ",AB TAK News
+https://live.shoq.com.pk/live/eds/Abb_Takk_News/HLS/Abb_Takk_News.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Lahore-News.svg" group-title="News-SHQ",Lahore News
+https://live.shoq.com.pk/live/eds/Lahore_News_HD/HLS/Lahore_News_HD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/City-21.svg" group-title="News-SHQ",City 21 News
+https://live.shoq.com.pk/live/eds/City_21/HLS/City_21.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/city-42.svg" group-title="News-SHQ",City 42 News
+https://live.shoq.com.pk/live/eds/City_42/HLS/City_42.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/motorvision.png" group-title="Sports-SHQ",Motor Vision
+https://live.shoq.com.pk/live/eds/Motorvision_TV/HLS/Motorvision_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=829
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="Sports-SHQ",SKY CRICKET
+https://test.ddnetwork.workers.dev/index.mpd?kid=00056d5c8882917a4463d5b42ba86c31&ch=https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php?id=829
+#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports1hd.png", tvg-id="ksport1hd" group-title="Sports-SHQ", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports2hd.png", tvg-id="ksport1hd" group-title="Sports-SHQ", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports3hd.png", tvg-id="ksport1hd" group-title="Sports-SHQ", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports4hd.png", tvg-id="ksport1hd" group-title="Sports-SHQ", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="http://omzolix.elementfx.com/logo/tnt5.png", tvg-id="ksport1hd" group-title="Sports-SHQ",TNT Sports 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:9a04f07998404286ab92e65be0885f95
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/golf-channel.png" group-title="Sports-SHQ",GOLF
+https://live.shoq.com.pk/live/eds/GOLF_Channel/HLS/GOLF_Channel.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Entertainment-SHQ",HUM TV
+https://live.shoq.com.pk/live/eds/HUM_TV/HLS/HUM_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Entertainment-SHQ",ARY DIGITAL
+https://live.shoq.com.pk/live/eds/ARY_Digital/HLS/ARY_Digital.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo.png" group-title="Entertainment-SHQ",Geo Entertainment
+https://live.shoq.com.pk/live/eds/Geo_Entertainment/HLS/Geo_Entertainment.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-entertainment.png" group-title="Entertainment-SHQ",Bol Entertainment
+https://live.shoq.com.pk/live/eds/Bol_Entertainment/HLS/Bol_Entertainment.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Entertainment-SHQ",Exoress Entertainment
+https://live.shoq.com.pk/live/eds/Express_Entertainment/HLS/Express_Entertainment.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/urdu-1.png" group-title="Entertainment-SHQ",URDU 1
+https://live.shoq.com.pk/live/eds/Urdu_1/HLS/Urdu_1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Entertainment-SHQ",Geo Kahani
+https://live.shoq.com.pk/live/eds/Geo_Kahani/HLS/Geo_Kahani.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="Entertainment-SHQ",A Plus
+https://live.shoq.com.pk/live/eds/A_Plus/HLS/A_Plus.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Entertainment-SHQ",AAN TV
+https://live.shoq.com.pk/live/eds/AAN_TV/HLS/AAN_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/LTN-Family.png" group-title="Entertainment-SHQ",LTN Family
+https://live.shoq.com.pk/live/eds/LTN_Family/HLS/LTN_Family.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/aaj-entertainment.png" group-title="Entertainment-SHQ",AAJ ENTERTAINMENT
+https://live.shoq.com.pk/live/eds/Aaj_Entertainment/HLS/Aaj_Entertainment.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ARY-Zindagi.svg" group-title="Entertainment-SHQ",ARY ZINDAGI
+https://live.shoq.com.pk/live/eds/ARY_Zindagae/HLS/ARY_Zindagae.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/996e5-animal-planet-4.jpg" group-title="Information-SHQ",Anumal Planet
+https://tapmadlive.akamaized.net/tapmadold/animal.smil/chunklist_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ten-sports-hd-logo.webp?id=44" group-title="Sports-SHQ",Ten Sports Tamp
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/chunklist_slENG.m3u8
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg",Sony SAB
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",Star sports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",Star sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",Sony Sport 5
+http://103.120.172.74:1110
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png",Sony Sport 1
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony HD
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sport 18
+http://103.120.172.74:5500
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIA-M" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max
+http://103.120.172.74:1150
